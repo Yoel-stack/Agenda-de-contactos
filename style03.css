@@ -11,10 +11,9 @@
     }
     .btn-agregar-tarea{
         border-radius: 4px;
-        border: 1px solid ;
+        border: 2px solid ;
     }
 }
-
 
 span{
     cursor: pointer;
